@@ -26,7 +26,7 @@ A responsive task manager built with vanilla HTML, CSS, and JavaScript. Tasks ar
 ## Project Structure
 
 ```
-CODSOFT_TASK2/
+CODSOFT_TASK02/
 ├── index.html
 ├── style.css
 ├── script.js
@@ -39,7 +39,7 @@ CODSOFT_TASK2/
 ```bash
    git clone <your-repo-url>
 ```
-2. Open the `CODSOFT_TASK2` folder.
+2. Open the `CODSOFT_TASK02` folder.
 3. Open `index.html` in any modern browser (or use VS Code Live Server).
 
 No installation or build step is required.
